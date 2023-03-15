@@ -1,0 +1,218 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'roman';
+}
+
+#div1 {
+    background-color: rgb(179, 120, 33);
+}
+
+#div2 {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#div2 h1 {
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+
+.div3 {
+    position: sticky;
+    top: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(179, 120, 33);
+    
+}
+
+.div3 h4 {
+    text-align: center;
+
+
+}
+
+#div4 {
+    background-color: rgb(222, 208, 190);
+    text-align: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+#div4 h2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#div5 {
+    margin: 0 auto;
+    padding: 2px;
+    height: 300px;
+    width: 500px;
+    border: 2px solid black;
+}
+
+#div5 p {
+    text-align: center;
+    text-align: justify;
+    margin: 20px;
+}
+
+#div6 {
+    background-color: rgb(222, 208, 190);
+    align-items: center;
+    padding: 20px;
+    padding-right: 30px;
+}
+
+.h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+#div6 ul li {
+    font-weight: bold;
+    padding-top: 30px;
+
+}
+#div6 ul li:hover{
+    font-size: larger;
+    font-weight: bolder;
+    color: brown;
+}
+#div6 p {
+    text-align: justify;
+    font-weight: lighter;
+}
+
+#brands {
+    background-color: rgb(222, 208, 190);
+}
+
+#div7 {
+    background-color: rgb(222, 208, 190);
+    display: flex;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 30px;
+}
+
+#div7 img {
+    border-radius: 50px;
+    padding: 20px;
+    justify-content: center;
+
+}
+#div7 img:hover{
+    height: 280px;
+    width: 400px;
+    border-radius: 100px;
+    transition: all 1.0s;
+}
+
+.div7 {
+    height: 280px;
+    width: 350px;
+    /* border: 3px solid black; */
+
+
+}
+
+.div7 h2 {
+    font-family: 'Arial Narrow Bold';
+    padding-bottom: 10px;
+
+}
+.div7 h2:hover{
+    color: rgb(40, 19, 159);
+    text-shadow: 2px, 4px, 6px;
+}
+
+.div7 p {
+    text-align: justify;
+    margin: 10px;
+}
+
+.gallery {
+    background-color: rgb(222, 208, 190);
+    float: left;
+    text-align: center;
+}
+
+.gal1 {
+    float: left;
+    /* padding: 30px; */
+    text-align: center;
+}
+
+.gal1 img {
+    /* padding: 15px; */
+    border-radius: 200px;
+    border: 10px solid rgb(115, 86, 42);
+}
+
+.gal1 img:hover{
+    border-radius: 50px;
+    border-color: rgb(49, 30, 6);
+}
+    
+
+
+.frm{
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+    
+ 
+}
+.form{
+    margin: 0 auto;
+    padding: 20px;
+    height: 220px;
+    width: 320px;
+    border: 2px solid black;
+    background-color: rgb(169, 135, 94);
+    padding-top: 20px;
+    text-align: justify;
+  
+}
+.frm h2{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.frm1{
+   padding: 20px;
+}
+
+.frm1 button{
+    margin-top: 5px;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    color: white;
+    width: 70px;
+    height: 30px;
+}
+.reach{
+    background-color: rgb(169, 135, 94);
+    align-items: center;
+    text-align: center;
+}
+.reach h1{
+    padding: 10px;
+    font-size:x-large;
+}
+.reach h2{
+    padding: 10px;
+    font-size:large;
+}
